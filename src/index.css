@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Radio+Canada+Big:ital,wght@0,400..700;1,400..700&display=swap");
+
+* {
+  font-family: "Radio Canada Big", sans-serif;
+  transition: all 0.1s ease-in-out;
+}
+
+#theme-btn {
+  height: 50px;
+  width: 50px;
+  border: none;
+  border-radius: 200px;
+  position: fixed;
+  left: 20px;
+  bottom: 20px;
+  text-align: center;
+}
